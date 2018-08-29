@@ -1,5 +1,5 @@
 import turtle
 
 for x in range(6):
-  turtle.forward(10)
-  turtle.right(120)
+  turtle.forward(100)
+  turtle.right(60)
