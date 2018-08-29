@@ -1,2 +1,5 @@
 import turtle
-turtle.forward(10)
+
+for x in range(6):
+  turtle.forward(10)
+  turtle.right(120)
